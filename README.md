@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I’m Phonkiat Robkob
 
-<!--
-**phonkiatrobkob05/phonkiatrobkob05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year **IoT and Information Engineering** student at **KMITL, Faculty of Engineering**
 
-Here are some ideas to get you started:
+**Focus Areas**
+- Web application development  
+- Interactive & responsive UI/UX  
+- IoT systems and real-time dashboards  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I Build**
+I design and develop web applications that collect, process, and visualize sensor data through dashboards for monitoring and decision-making.
+
+**Strength**
+I enjoy combining **software development with system-level thinking**, creating practical solutions that connect **hardware, data, and web technologies**.
